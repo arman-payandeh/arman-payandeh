@@ -41,7 +41,6 @@
 ### Stay in touch:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)]([https://www.linkedin.com/in/sayedali-nourian-najafabadi-a44479127/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](http://grapheen.net/)
-[![protonmail](https://img.shields.io/badge/-nouriannajafabadi@proton.me-000?&logo=protonmail)](mailto:payndharman8@gmail.com)
 
 ### Github Profile Details:
 
@@ -60,7 +59,7 @@
 ## **Contact Information** :telephone_receiver:
 - **Phone:** [+98-994-5093332] :telephone:
 - **Email:** [info@grapheen.net] :envelope:
-- **GitHub:** [salinourian] :octocat:
+- **GitHub:** [arman_payandeh] :octocat:
 - **LinkedIn:** [[LinkedIn Profile]()] :briefcase:
 ## Hello, fellow coders and curious minds!
 
